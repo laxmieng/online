@@ -1,0 +1,3 @@
+/* Fully rounded header edges */
+header{border-radius:22px!important}
+@media(max-width:850px){header{border-radius:16px!important}}

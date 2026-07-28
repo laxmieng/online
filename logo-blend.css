@@ -1,0 +1,2 @@
+/* Visually remove the baked white canvas behind the supplied logo */
+.brand img,footer img{mix-blend-mode:multiply;isolation:isolate}.brand{display:flex;align-items:center;background:transparent}.brand img{background:transparent}

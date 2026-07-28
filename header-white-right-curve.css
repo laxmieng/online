@@ -1,0 +1,3 @@
+/* Clean white header with a curved right edge */
+header{background:#fff!important;border-radius:0 28px 28px 0!important}header:before{background:#1766c5!important}
+@media(max-width:850px){header{border-radius:0 18px 18px 0!important}}

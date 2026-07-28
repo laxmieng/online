@@ -1,0 +1,2 @@
+/* Flowing blue-and-white fade on the header and footer top lines */
+header:before,footer:before{background:linear-gradient(90deg,#1766c5 0%,#63a9ef 18%,#fff 40%,#d9efff 55%,#1766c5 76%,#fff 100%)!important;background-size:240% 100%!important;animation:blueWhiteRunningLine 5s linear infinite!important}@keyframes blueWhiteRunningLine{to{background-position:240% 0}}@media(prefers-reduced-motion:reduce){header:before,footer:before{animation:none!important}}

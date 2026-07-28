@@ -1,0 +1,2 @@
+/* Header: blue on the left, white on the right */
+header{background:linear-gradient(90deg,#c8e5ff 0%,#e8f5ff 37%,#fff 72%,#fff 100%)!important}header:before{background:linear-gradient(90deg,#1766c5 0%,#63a9ef 45%,#fff 100%)!important}
