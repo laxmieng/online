@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /online/
+
+Sitemap: https://laxmieng.github.io/online/sitemap.xml

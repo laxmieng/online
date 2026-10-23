@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://laxmieng.github.io/online/",
+  "indexablePages": 34,
+  "productPages": 28,
+  "prerendered": true,
+  "privatePages": [
+    "login.html",
+    "quotation.html"
+  ],
+  "deployed": false
+}

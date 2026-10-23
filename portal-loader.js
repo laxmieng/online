@@ -1,0 +1,1 @@
+(function(){const start=performance.now();function done(){setTimeout(()=>document.getElementById('portal-loader')?.classList.add('done'),Math.max(0,650-(performance.now()-start)))}window.addEventListener('load',done);setTimeout(done,5000)})();

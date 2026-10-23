@@ -1,0 +1,9 @@
+Publish the CONTENTS of this folder at https://laxmieng.github.io/online/ (GitHub Pages repository online). Preserve existing quotation storage by keeping the exact same URL/origin. Do not upload only the single-file website as the SEO site.
+
+Public pages are statically rendered and retain their existing JavaScript interactions. All 28 products have dedicated HTML URLs. Sitemap: https://laxmieng.github.io/online/sitemap.xml
+
+Submit this sitemap in Google Search Console after deployment, then use URL Inspection on the home page and selected products. Verify site ownership manually in Search Console. This package has not been deployed or submitted.
+
+robots.txt is only authoritative at the ORIGIN root (https://laxmieng.github.io/robots.txt). For this project site, place the supplied directives at that root if you control it; otherwise use Search Console sitemap submission. Login and quotation pages contain noindex meta tags and are excluded from the sitemap. Noindex is not authentication.
+
+No prices, ratings or opening hours were invented. Product structured data omits offers until actual prices are available. Public company metadata uses the supplied address and contacts. Check your social profile URLs before publishing.
